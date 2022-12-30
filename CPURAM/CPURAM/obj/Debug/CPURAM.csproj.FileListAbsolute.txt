@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\bin\Debug\CPURAM.exe.config
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\bin\Debug\CPURAM.exe
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\bin\Debug\CPURAM.pdb
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.Properties.Resources.resources
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.CopyComplete
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.exe
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.pdb
+C:\Users\Admin\Desktop\metro\CPURAM\CPURAM\obj\Debug\CPURAM.Form1.resources
